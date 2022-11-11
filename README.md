@@ -17,7 +17,7 @@ Um dos grandes problemas do trânsito é encontrar uma vaga para estacionar. Bus
 
 ## Diagrama do projeto
 
-<img src="./imagens/diagrama.png">
+<img src="./iot.png">
 
 ## Link de vídeo demonstração
 
