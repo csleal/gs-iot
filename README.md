@@ -19,6 +19,11 @@ Um dos grandes problemas do trânsito é encontrar uma vaga para estacionar. Bus
 
 <img src="./iot.png">
 
+## Dashboard e Flow
+
+<img src="./dashboard.png">
+<img src="./flow.png">
+
 ## Link de vídeo demonstração
 
 Vídeo de demonstração do projeto funcionando.
